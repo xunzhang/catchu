@@ -1,0 +1,3 @@
+[submodule "materials/dbt2"]
+	path = materials/dbt2
+	url = https://github.com/nuodb/dbt2
